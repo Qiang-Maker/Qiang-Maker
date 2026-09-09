@@ -16,9 +16,9 @@
 
 你好，我是 **徐强 (Qiang / Qiang-Maker)**，常驻浙江宁波。
 
-我是一名**全栈工程师**，在实体制造与工业信息化现场摸爬滚打多年，同时也全心探索大模型工程化与智能体的技术前沿：
-- 🏭 **工业实体底色**：长期负责实体制造业生产现场的工单管理系统（MES）、ERP 业务集成对接与独立自动化开票系统，保障高可用排产、全流程追踪与精准闭环；
-- 🤖 **大模型与智能体转型**：正全力投入 **AI Agent（智能体）、LLM 大模型工程化** 与开源社区，致力于让智能体在真实工业落地与终端交互中解决实际问题；
+我是一名**全栈工程师**，兼具扎实的实体制造业企业软件工程经验与活跃的前沿 AI 实践：
+- 🏭 **工业实体底色**：长期负责管家婆辉煌小工单（MES）、云易开票等企业业务系统开发与维护，熟练运用 C# / .NET 与 Vue 承接业务页面迁移、接口联调、看板高可用及数据排查；
+- 🤖 **AI 与智能体工程化**：在真实工单业务上探索 **AI + MES OnCall Agent**，深入研究 LLM、RAG、Tool Calling、MCP 与多 Agent 协作工作流；
 - 📖 **知识沉淀与开源**：主理 [ai-handbook](https://github.com/Qiang-Maker/ai-handbook) 技术手册，持续跟踪并参与 LiteLLM、OpenHands 等顶级开源项目；
 - 📬 **联系交流**：`xuqiang5250@163.com` ｜ GitHub: [@Qiang-Maker](https://github.com/Qiang-Maker)
 
@@ -26,11 +26,18 @@
 
 ### 🛠️ 技术栈 (Tech Stack)
 
-#### 💻 编程语言 & 常用框架
+#### 💻 编程语言 & 框架生态
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nodejs,nestjs,python,fastapi,tailwind,html,css&perline=12" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,vue,ts,js,react,nextjs,nodejs,nestjs,python,fastapi,tailwind,html,css&perline=14" />
   </a>
+</p>
+
+#### 🤖 AI 智能体 & 架构生态 (AI & Agent Ecosystem)
+<p align="left">
+  <img src="https://img.shields.io/badge/AI_Core-LLM%20%7C%20RAG%20%7C%20Embedding-7c3aed?style=flat-square" alt="AI Core"/>
+  <img src="https://img.shields.io/badge/Agent-Tool%20Calling%20%7C%20MCP%20%7C%20Multi--Agent-059669?style=flat-square" alt="Agent"/>
+  <img src="https://img.shields.io/badge/Frameworks-LangChain%20%7C%20LlamaIndex%20%7C%20LiteLLM-2563eb?style=flat-square" alt="Frameworks"/>
 </p>
 
 #### 🗄️ 数据库 & 中间件 & 基础设施
@@ -56,12 +63,12 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏭 工业系统与智能工单 (MES / ERP)</h3>
-      <p><b>实体制造生产管理与企业级对接平台</b></p>
-      <p>服务实体工业生产现场，实现工厂工单全生命周期追踪、ERP 深度业务集成对接及高稳定性自动化开票闭环。</p>
+      <h3>🏭 管家婆辉煌小工单 (MES) & AI OnCall Agent</h3>
+      <p><b>实体制造生产管理、开票闭环与智能运维辅助</b></p>
+      <p>基于 C# / .NET + Vue 维护工单执行与开票系统；探索将自然语言查询路由到知识检索与工业运维工具链。</p>
       <p>
+        <img src="https://img.shields.io/badge/Tech-C%23%20%2F%20.NET%20%2B%20Vue-blue?style=flat-square" alt="tech"/>
         <img src="https://img.shields.io/badge/Domain-Industrial%20MES-orange?style=flat-square" alt="domain"/>
-        <img src="https://img.shields.io/badge/Architecture-High%20Availability-blue?style=flat-square" alt="role"/>
       </p>
     </td>
   </tr>
