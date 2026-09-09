@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/Qiang-Maker/liuyuyang">liuyuyang (Personal Portfolio)</a></h3>
+      <h3>🌐 <a href="https://github.com/Qiang-Maker/portfolio">portfolio (Personal Portfolio)</a></h3>
       <p><b>基于 Next.js 与 TypeScript 的高体验个人主页</b></p>
       <p>基于 Next.js 16 + React 19 + TailwindCSS 4 构建，呈现流畅自然的交互设计与高质量组件工程实践。</p>
       <p>
