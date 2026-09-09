@@ -1,0 +1,85 @@
+<svg width="900" height="240" viewBox="0 0 900 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090d16" />
+      <stop offset="50%" stop-color="#0f1f38" />
+      <stop offset="100%" stop-color="#0b1329" />
+    </linearGradient>
+
+    <radialGradient id="glow-blue" cx="20%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#2563eb" stop-opacity="0.38" />
+      <stop offset="100%" stop-color="#2563eb" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="glow-cyan" cx="80%" cy="70%" r="55%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0" />
+    </radialGradient>
+
+    <pattern id="dot-grid" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#38bdf8" fill-opacity="0.12" />
+    </pattern>
+  </defs>
+
+  <style>
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      font-weight: 800;
+      font-size: 40px;
+      fill: #ffffff;
+      letter-spacing: -0.5px;
+    }
+    .accent {
+      fill: #38bdf8;
+    }
+    .subtitle {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      font-weight: 500;
+      font-size: 16px;
+      fill: #94a3b8;
+      letter-spacing: 0.3px;
+    }
+    .badge {
+      font-family: 'SF Mono', Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+      font-size: 12px;
+      font-weight: 600;
+      fill: #38bdf8;
+    }
+  </style>
+
+  <rect width="900" height="240" rx="16" fill="url(#bg-grad)" />
+  <rect width="900" height="240" rx="16" fill="url(#dot-grid)" />
+  <circle cx="180" cy="80" r="220" fill="url(#glow-blue)" />
+  <circle cx="750" cy="180" r="200" fill="url(#glow-cyan)" />
+  <rect x="1" y="1" width="898" height="238" rx="15" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1.5" />
+
+  <g transform="translate(60, 42)">
+    <rect width="180" height="26" rx="13" fill="rgba(37, 99, 235, 0.18)" stroke="rgba(56, 189, 248, 0.35)" stroke-width="1" />
+    <circle cx="15" cy="13" r="4" fill="#10b981" />
+    <text x="26" y="17" class="badge">BUILDING &amp; CODING</text>
+  </g>
+
+  <text x="60" y="118" class="title">
+    徐强 <tspan class="accent">· Qiang-Maker</tspan>
+  </text>
+
+  <text x="60" y="156" class="subtitle">
+    Full Stack Engineer · Industrial MES Systems ➔ AI Agents &amp; LLM Engineering
+  </text>
+
+  <line x1="60" y1="184" x2="840" y2="184" stroke="rgba(148, 163, 184, 0.18)" stroke-width="1" />
+
+  <g transform="translate(60, 206)">
+    <circle cx="4" cy="-4" r="3" fill="#38bdf8" />
+    <text x="14" y="0" font-family="-apple-system, sans-serif" font-size="13" font-weight="500" fill="#cbd5e1">浙江 · 宁波</text>
+
+    <circle cx="130" cy="-4" r="3" fill="#38bdf8" />
+    <text x="140" y="0" font-family="-apple-system, sans-serif" font-size="13" font-weight="500" fill="#cbd5e1">制造信息化 (MES / ERP)</text>
+
+    <circle cx="360" cy="-4" r="3" fill="#38bdf8" />
+    <text x="370" y="0" font-family="-apple-system, sans-serif" font-size="13" font-weight="500" fill="#cbd5e1">AI Agents &amp; 大模型工程化</text>
+
+    <circle cx="610" cy="-4" r="3" fill="#10b981" />
+    <text x="620" y="0" font-family="-apple-system, sans-serif" font-size="13" font-weight="500" fill="#10b981">Open Source Enthusiast</text>
+  </g>
+</svg>
