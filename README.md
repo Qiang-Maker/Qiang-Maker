@@ -3,8 +3,6 @@
   <img width="100%" src="./banner.svg" alt="Xu Qiang Banner"/>
 </p>
 
-# 👋 我是 徐强 (Qiang)
-
 > **扎根实体制造业务的泥土，望向大模型与智能体的星辰。**
 > 从工厂生产流水线的稳定闭环，到 AI Agent 与万物重塑的工程实战。
 
