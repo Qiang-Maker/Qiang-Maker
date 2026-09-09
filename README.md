@@ -101,12 +101,10 @@
 
 ---
 
-### 📈 GitHub 动态看板
+### 📈 活跃度与贡献热力图
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Qiang-Maker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Qiang's GitHub stats" height="155"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qiang-Maker&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="155"/>
+  <img src="https://ghchart.rshah.org/2563eb/Qiang-Maker" alt="Qiang-Maker's GitHub Contribution Chart" width="100%"/>
 </p>
 
 ---
